@@ -34,7 +34,7 @@ System.out.print("===JPACRUD===");
 		System.out.println("Bienvenido " + u.getNomUsua());
 		System.out.println("Tus datos son : " +u);
 		List<TbUsuario> lstUsuarios= query.getResultList();
-		System.out.print("El Número de Usuarios es :"+ lstUsuarios.size());
+		
 		
 	}
 
