@@ -35,6 +35,7 @@ System.out.print("===JPACRUD===");
 		System.out.println("Tus datos son : " +u);
 		List<TbUsuario> lstUsuarios= query.getResultList();
 		
+		/*asdas*/
 		
 	}
 
